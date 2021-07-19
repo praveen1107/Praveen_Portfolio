@@ -1,4 +1,4 @@
-# Project 1: Online Sales Method Evalaution 
+# [Project 1: Online Sales Method Evalaution](https://github.com/praveen-sivashangaran/Online-Sales-Method-Evaluation) 
 
 * Dataset involves customer data from an Ecommerce company that specializes in selling clothing online who also have in-store style and clothing advice sessions.
 * This company allows online shopping to be done via a website or via a mobile app.
